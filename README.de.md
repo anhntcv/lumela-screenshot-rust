@@ -35,7 +35,7 @@ Lade den Installer für dein System aus dem [neuesten Release](https://github.co
 |---|---|
 | Windows 10 / 11 (x64) | `Lumela_<version>_x64-setup.exe` oder `.msi` |
 | macOS 10.15+ (Apple Silicon und Intel) | `Lumela_<version>_universal.dmg` |
-| Linux (x64): Ubuntu 24.04+, Debian 13+, Fedora 40+ oder ähnlich | `Lumela_<version>_amd64.AppImage` oder `.deb` |
+| Linux (x64): Ubuntu 22.04+, Debian 12+, Fedora 36+ oder ähnlich | `Lumela_<version>_amd64.AppImage` oder `.deb` |
 
 Oder installiere es mit einem Paketmanager:
 

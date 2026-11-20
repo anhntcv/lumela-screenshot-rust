@@ -35,7 +35,7 @@
 |---|---|
 | Windows 10 / 11 (x64) | `Lumela_<version>_x64-setup.exe` または `.msi` |
 | macOS 10.15+（Apple シリコンと Intel） | `Lumela_<version>_universal.dmg` |
-| Linux (x64)：Ubuntu 24.04+、Debian 13+、Fedora 40+ など | `Lumela_<version>_amd64.AppImage` または `.deb` |
+| Linux (x64)：Ubuntu 22.04+、Debian 12+、Fedora 36+ など | `Lumela_<version>_amd64.AppImage` または `.deb` |
 
 パッケージマネージャーでもインストールできます。
 

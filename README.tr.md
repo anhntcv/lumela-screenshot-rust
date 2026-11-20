@@ -35,7 +35,7 @@ Sisteminize uygun kurulum dosyasını [son sürümden](https://github.com/tw4/lu
 |---|---|
 | Windows 10 / 11 (x64) | `Lumela_<version>_x64-setup.exe` veya `.msi` |
 | macOS 10.15+ (Apple silicon ve Intel) | `Lumela_<version>_universal.dmg` |
-| Linux (x64): Ubuntu 24.04+, Debian 13+, Fedora 40+ veya benzeri | `Lumela_<version>_amd64.AppImage` veya `.deb` |
+| Linux (x64): Ubuntu 22.04+, Debian 12+, Fedora 36+ veya benzeri | `Lumela_<version>_amd64.AppImage` veya `.deb` |
 
 Ya da bir paket yöneticisiyle kurun:
 
